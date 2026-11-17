@@ -1,0 +1,15 @@
+## **1. Information Retrieval (IR)**
+
+1. Write a program for pre-processing of a text document such as stop word removal, stemming.
+2. Implement a program for retrieval of documents using inverted files.
+3. Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using the standard Heart Disease Data Set.
+4. Implement Agglomerative hierarchical clustering algorithm using appropriate dataset.
+5. Implement Page Rank Algorithm. (Use python or beautiful soup for implementation).
+
+## **2. Quantum Artificial Intelligence (QAI)**
+
+1. Implementations of 16 Qubit Random Number Generator.
+2. Tackle Noise with Error Correction.
+3. Implement Quantum Teleportation algorithm in Python.
+4. The Randomized Benchmarking Protocol.
+5. Implementing a 5 qubit Quantum Fourier Transform.
